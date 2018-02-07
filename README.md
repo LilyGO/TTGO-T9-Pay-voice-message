@@ -2,11 +2,11 @@
 
 ## 1.Download software
 
-    ### MQTT.fx:http://mqttfx.bceapp.com
+### MQTT.fx:http://mqttfx.bceapp.com
+ 
 <img width="688" height="497" src="https://github.com/LilyGO/TTGO-T9-Pay-voice-message/blob/master/image/image1.png"/>
 
-
-    ### esp flash tool:https://www.espressif.com/en/support/download/other-tools
+  ### esp flash tool:https://www.espressif.com/en/support/download/other-tools
 
 <img width="623" height="430" src="https://github.com/LilyGO/TTGO-T9-Pay-voice-message/blob/master/image/image3.png"/>
 
